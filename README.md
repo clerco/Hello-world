@@ -1,2 +1,6 @@
 # hello-world
-Hello World Tutorial repository
+
+Hello,  
+  
+To readme or not te readme, there is no question.  
+See you space cowboys!
